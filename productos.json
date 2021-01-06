@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Roles Datejust",
+            "price": 101,
+            "image": "https://cdn4.chrono24.com/images/topmodels/2846-alz5vjoi11mxlc54imf27mlj-Original.png?auto=compress&amp;h=305",
+            "category": "rolex"
+        },
+        {
+            "id": 2,
+            "title": "OMEGA Speedmaster",
+            "price": 104,
+            "image": "https://cdn4.chrono24.com/images/topmodels/2875-7wlcl6ogfoc0qxg22ox6up9m-Original.png?auto=compress&amp;h=305",
+            "category": "omega"
+        },
+        {
+            "id": 3,
+            "title": "AUDEMARS PIGUET",
+            "price": 75,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1177-wugpfdlkkz5ie2od4y1w8rlm-Original.png?auto=compress&amp;h=305",
+            "category": "audemars"
+        },
+        {
+            "id": 4,
+            "title": "HUBLOT Big Bang",
+            "price": 99,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1065-ae2seivfjwbgqxgobd7rimxu-Original.png?auto=compress&amp;h=305",
+            "category": "hublot"
+        },
+        {
+            "id": 5,
+            "title": "ROLEX Day-Date",
+            "price": 105,
+            "image": "https://cdn4.chrono24.com/images/topmodels/48-coj40rpfx8fwxs9h0nl1l5z5-Original.png?auto=compress&amp;h=305",
+            "category": "rolexDay"
+
+        },
+        {
+            "id": 6,
+            "title": "TAG HEUER Carrera Calibre",
+            "price": 85,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1023-knl4kmo66jmse324vzq1rit9-Original.png?auto=compress&amp;h=305",
+            "category": "tag"
+
+        },
+        {
+            "id": 7,
+            "title": "Roles Datejust",
+            "price": 60,
+            "image": "https://cdn4.chrono24.com/images/topmodels/2889-i234z41cn7v0n4vanfhte4w4-Original.png?auto=compress&amp;h=305",
+            "category": "rolex"
+        },
+        {
+            "id": 8,
+            "title": "OMEGA Speedmaster",
+            "price": 35,
+            "image": "https://cdn4.chrono24.com/images/topmodels/277-q51jko3qp053cwsfydfnmp8r-Original.png?auto=compress&amp;h=305",
+            "category": "omega"
+        },
+        {
+            "id": 9,
+            "title": "AUDEMARS PIGUET",
+            "price": 799,
+            "image": "https://cdn4.chrono24.com/images/topmodels/2784-sol59z6xc26pvisg1s4yyhz7-Original.png?auto=compress&amp;h=305",
+            "category": "audemars"
+        },
+        {
+            "id": 10,
+            "title": "HUBLOT Big Bang",
+            "price": 101,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1060-60mnke18crk8dtva1dday8aq-Original.png?auto=compress&amp;h=305",
+            "category": "hublot"
+        },
+        {
+            "id": 11,
+            "title": "ROLEX Day-Date",
+            "price": 650,
+            "image": "https://cdn4.chrono24.com/images/topmodels/2789-kz9cslhfzhl5hluyhyik13vh-Original.png?auto=compress&amp;h=305",
+            "category": "rolexDay"
+        },
+        {
+            "id": 12,
+            "title": "TAG HEUER Carrera Calibre",
+            "price": 65,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1024-kun413lxk7kb6xba9sow5f81-Original.png?auto=compress&amp;h=305",
+            "category": "tag"
+        },
+        {
+            "id": 13,
+            "title": "Roles Datejust",
+            "price": 101,
+            "image": "https://cdn4.chrono24.com/images/topmodels/2827-syc8dandfne5fr49dsnu9oai-Original.png?auto=compress&amp;h=305",
+            "category": "rolex"
+        },
+        {
+            "id": 14,
+            "title": "OMEGA Speedmaster",
+            "price": 104,
+            "image": "https://cdn4.chrono24.com/images/topmodels/71-js248idvdav3retnmx2uc6wx-Original.png?auto=compress&amp;h=305",
+            "category": "omega"
+        },
+        {
+            "id": 15,
+            "title": "AUDEMARS PIGUET",
+            "price": 75,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1176-hs3tqa0p4c96tsxn2cn2uo6w-Original.png?auto=compress&amp;h=305",
+            "category": "audemars"
+        },
+        {
+            "id": 16,
+            "title": "HUBLOT Big Bang",
+            "price": 99,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1058-1jormktv8artxf3enlapuh13-Original.png?auto=compress&amp;h=305",
+            "category": "hublot"
+        },
+        {
+            "id": 17,
+            "title": "ROLEX Day-Date",
+            "price": 105,
+            "image": "https://cdn4.chrono24.com/images/topmodels/2884-5ef4thk0sttcydmk5692nply-Original.png?auto=compress&amp;h=305",
+            "category": "rolexDay"
+
+        },
+        {
+            "id": 18,
+            "title": "TAG HEUER Carrera Calibre",
+            "price": 85,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1024-kun413lxk7kb6xba9sow5f81-Original.png?auto=compress&amp;h=305",
+            "category": "tag"
+
+        },
+        {
+            "id": 19,
+            "title": "Roles Datejust",
+            "price": 60,
+            "image": "https://cdn4.chrono24.com/images/topmodels/53-qr7rjp3uwl4jco6w9zezewr6-Original.png?auto=compress&amp;h=305",
+            "category": "rolex"
+        },
+        {
+            "id": 20,
+            "title": "OMEGA Speedmaster",
+            "price": 35,
+            "image": "https://cdn4.chrono24.com/images/topmodels/242-uk37he1f5vgdtk9unr5570ct-Original.png?auto=compress&amp;h=3055",
+            "category": "omega"
+        },
+        {
+            "id": 21,
+            "title": "AUDEMARS PIGUET",
+            "price": 99,
+            "image": "https://cdn4.chrono24.com/images/topmodels/118-6lbsu9lmivq8w0y0nqrk5j45-Original.png?auto=compress&amp;h=305",
+            "category": "audemars"
+        },
+        {
+            "id": 22,
+            "title": "HUBLOT Big Bang",
+            "price": 101,
+            "image": "https://cdn4.chrono24.com/images/topmodels/1060-60mnke18crk8dtva1dday8aq-Original.png?auto=compress&amp;h=305",
+            "category": "hublot"
+        },
+        {
+            "id": 23,
+            "title": "ROLEX Day-Date",
+            "price": 65,
+            "image": "https://cdn4.chrono24.com/images/topmodels/954-oel0a5omxgsfsc717gx0p1na-Original.png?auto=compress&amp;h=305",
+            "category": "rolexDay"
+        },
+        {
+            "id": 24,
+            "title": "TAG HEUER Carrera Calibre",
+            "price": 65,
+            "image": "https://cdn4.chrono24.com/images/topmodels/2848-rrxe8hk918f7plrrfgzbxt65-Original.png?auto=compress&amp;h=305",
+            "category": "tag"
+        }
+    ]
+}
